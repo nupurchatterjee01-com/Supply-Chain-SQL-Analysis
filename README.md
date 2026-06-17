@@ -14,10 +14,10 @@ Commodity dataset collected from institute-provided datasets.
 
 FEATURES :
 
-1)Introduction:     
-
-The project focuses on analyzing commodity data such as product categories, prices, quantities
+1)Introduction: The project focuses on analyzing commodity data such as product categories, prices, quantities
 and market trends using SQL queries.
+
+
 
 2)Business Problem:
    
@@ -30,6 +30,9 @@ c)Understand market demand patterns
 d)Make informed pricing decisions
 
 
+
+
+
 3)Analysis Goals:
 
 a)Analyze commodity price trends
@@ -39,6 +42,9 @@ b)Identify top-performing commodities
 c)Compare categories based on price and quantity
 
 d)Generate insights for business decision-making
+
+
+
 
 
 
@@ -81,9 +87,12 @@ supply chain or demand issues.
  I first identified the state with the fewest records using a CTE, COUNT, and GROUP BY.
  Then, I counted commodity occurrences within that state and found that Rice had the highest number of records. 
  This suggests that Rice is an important commodity even in low-data regions and can help in demand and inventory planning.
+
+
+
  
 
- 5. What is the price variation of commodities for each city from Jan 2019 to Dec 2020 &
+5. What is the price variation of commodities for each city from Jan 2019 to Dec 2020 &
     Which commodity has seen the highest price variation and in which city?
 
 How I Solved--
@@ -91,6 +100,9 @@ How I Solved--
 I compared January 2019 and December 2020 prices using CTEs and joins, calculated the price variation, and 
 found that Moong in Chittoor had the highest increase of 22.22%. This helps identify commodities with high market volatility.
     
+
+
+
 Insights: 
 
 (a)Coffee showed product diversification.
@@ -101,6 +113,9 @@ Insights:
 
 (d)Certain commodities maintained consistently high prices.
 
+
+
+
 Business Impact: 
 
 (a)Improved pricing decisions.
@@ -109,7 +124,10 @@ Business Impact:
 
 (c)Data-driven business decision-making.   
 
-SCREENSHOT 
+
+
+
+SCREENSHOT LINK :
 
 
 
