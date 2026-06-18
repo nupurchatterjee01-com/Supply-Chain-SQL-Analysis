@@ -34,7 +34,7 @@ FEATURES :
 (c)Difficulty in identifying order and shipping trends
 
 
-Query Result & Insight:
+3)Query Result & Insight:
 
 Business Questions solved
 
@@ -107,7 +107,7 @@ BUSINESS IMPACT
 
 
 
-PPT LINK :
+PDF LINK :
 
 
 
