@@ -110,7 +110,7 @@ BUSINESS IMPACT
 PPT LINK :
 
 
-https://github.com/nupurchatterjee01-com/Commodity-and-Supply-Chain-SQL-Insights/blob/main/SQL_presentation%20by%20Nupur.pdf
+
 
 
 
