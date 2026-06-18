@@ -109,6 +109,8 @@ BUSINESS IMPACT
 
 PDF LINK :
 
+https://github.com/nupurchatterjee01-com/Commodity-and-Supply-Chain-SQL-Insights/blob/main/Supply_chain_SQL_Project_Presentation.pdf.pdf
+
 
 
 
