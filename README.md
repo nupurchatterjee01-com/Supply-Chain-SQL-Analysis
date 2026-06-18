@@ -127,7 +127,7 @@ Business Impact:
 
 
 
-SCREENSHOT LINK :
+
 
 
 
