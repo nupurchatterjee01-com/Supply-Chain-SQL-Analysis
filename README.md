@@ -60,7 +60,7 @@ How I solve-
 Joined Orders, Ordered_Items, Product, and Department tables. Filtered completed and closed orders, grouped the data by shipping mode and department, and used HAVING to include only departments with at least 40 orders.
 
 
-4.reate a new field as shipment compliance based on Real_Shipping_Days and Scheduled_Shipping_Days. 
+4. Create a new field as shipment compliance based on Real_Shipping_Days and Scheduled_Shipping_Days. 
 
 
 How I solve-
